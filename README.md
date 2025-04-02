@@ -1,1 +1,1 @@
-# calculator
+A Python practice exercise # calculator
